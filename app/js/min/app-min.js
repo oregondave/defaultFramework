@@ -1,0 +1,1 @@
+$(document).foundation(),$(".clickableRow").click(function(){window.document.location=$(this).attr("href")});

@@ -1,0 +1,197 @@
+html {
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  height: 100%; }
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 13px;
+  font-size: 0.8125rem;
+  height: 100%; }
+
+.fluid.row {
+  max-width: 100%; }
+
+.top-bar-section ul li > a {
+  font-size: 0.8125rem; }
+
+table tr input[type="checkbox"] {
+  margin: 0; }
+table tr.active {
+  background: #d9e6f2; }
+
+button.collapse, .button.collapse {
+  margin: 0; }
+
+ul {
+  margin-left: 0; }
+
+.hero {
+  margin-top: 4rem;
+  text-align: center; }
+
+.graphic {
+  background-image: url(../img/seal.jpg) !important;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 460px; }
+
+fieldset {
+  border: 0; }
+
+ul {
+  list-style-type: none; }
+
+textarea {
+  margin: 0 0 1rem 0; }
+
+label {
+  font-weight: 600; }
+  label.radio {
+    font-weight: normal;
+    margin-right: 1rem; }
+
+select {
+  -webkit-appearance: none;
+  -webkit-border-radius: 0px;
+  background-image: url(../img/svg/download.svg) !important;
+  background-repeat: no-repeat;
+  background-position: 96%;
+  padding-right: 1.5rem !important; }
+
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 0.875rem;
+  color: rgba(0, 0, 0, 0.75);
+  background-color: white;
+  background-image: none;
+  border: 1px solid #ccc;
+  -webkit-transition: -webkit-box-shadow 0.45s, border-color 0.45s ease-in-out;
+  -moz-transition: -moz-box-shadow 0.45s, border-color 0.45s ease-in-out;
+  transition: box-shadow 0.45s, border-color 0.45s ease-in-out; }
+
+table {
+  width: 100%; }
+
+th {
+  text-align: left; }
+
+.hidden {
+  display: none; }
+
+td.action {
+  padding: 0 1.2rem; }
+
+.delete.lineItem {
+  background-image: url("../img/svg/delete_line.svg");
+  background-repeat: no-repeat;
+  background-position: 10% 24%; }
+
+ul {
+  font-size: 0.875rem !important; }
+
+body {
+  /* the following line fixes a blink in chrome https://code.google.com/p/chromium/issues/detail?id=108025 */
+  -webkit-backface-visibility: hidden; }
+
+.sidebar {
+  border-right: 1px solid #f1f1f1; }
+
+.callout {
+  margin: 1rem 0;
+  padding: 1rem !important;
+  border-left: 3px solid #eee; }
+  .callout.info {
+    background-color: #f4f8fa;
+    border-color: #5bc0de; }
+  .callout.danger {
+    background-color: #fdf7f7;
+    border-color: #d9534f; }
+    .callout.danger h4 {
+      color: #d9534f; }
+  .callout h4 {
+    margin-top: 0;
+    margin-bottom: 5px; }
+
+a.inline {
+  text-decoration: underline; }
+
+.nav.sidebar li {
+  padding: 1rem;
+  border-top: 1px solid white;
+  color: #323232;
+  background-color: #eeeeee; }
+  .nav.sidebar li:hover {
+    background-color: #dddddd; }
+  .nav.sidebar li.active {
+    background-color: #323232;
+    color: #fefefe; }
+
+.columns.collapse {
+  padding: 0; }
+
+button, .button, button.button {
+  background-color: #336699; }
+
+button.disabled, button[disabled], .button.disabled, .button[disabled] {
+  background-color: #EEEEEE;
+  border-color: #DDDDDD;
+  color: #CCCCCC;
+  cursor: default;
+  opacity: 0.7;
+  box-shadow: none; }
+
+.f-dropdown {
+  position: absolute;
+  left: -9999px;
+  list-style: none;
+  margin-left: 0;
+  width: 100%;
+  max-height: none;
+  height: auto;
+  background: #ffffff;
+  border: solid 1px #cccccc;
+  font-size: 0.875rem;
+  z-index: 99;
+  margin-top: 2px;
+  max-width: 400px; }
+  .f-dropdown label {
+    font-weight: normal;
+    padding-top: .8rem; }
+  .f-dropdown input[type="checkbox"] {
+    margin-left: 1rem;
+    margin-right: 1rem; }
+
+.lame-spacer {
+  height: 2rem; }
+
+.clickableRow {
+  cursor: pointer; }
+
+.modified {
+  background-color: #dcedd4 !important; }
+
+.showOrigVal {
+  background-image: url(../img/svg/infoBluex.svg) !important;
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-left: 1.4rem; }
+
+.subAccount {
+  padding-left: 2rem;
+  background-image: url(../img/svg/dot_alpha.svg) !important;
+  background-repeat: no-repeat;
+  background-position: left; }
+
+.trailingContextProvider {
+  padding-left: .25rem; }
+
+.microtext {
+  font-size: .7rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #008cba; }

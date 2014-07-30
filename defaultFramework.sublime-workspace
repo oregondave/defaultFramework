@@ -1,0 +1,805 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"light",
+				"lightgreen"
+			],
+			[
+				"sel",
+				"selected	Attr"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"lig",
+				"light-pom"
+			],
+			[
+				"ligh",
+				"lightblue"
+			],
+			[
+				"det",
+				"detailsTrigger"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"ul",
+				"ultralightgreen"
+			],
+			[
+				"text",
+				"text-green"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"USe",
+				"Use"
+			],
+			[
+				"Ee",
+				"EEU"
+			],
+			[
+				"FOr",
+				"For"
+			],
+			[
+				"ALP",
+				"ALPSP"
+			],
+			[
+				"Se",
+				"Service"
+			],
+			[
+				"ONl",
+				"Online"
+			],
+			[
+				"backl",
+				"background-color"
+			],
+			[
+				"pr",
+				"progress"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"med",
+				"mediumgray"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"medium",
+				"mediumblue"
+			],
+			[
+				"nav",
+				"nav-element"
+			],
+			[
+				"has",
+				"hasClass	.hasClass"
+			],
+			[
+				"as",
+				"asbestos"
+			],
+			[
+				"sou",
+				"source-panel"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"exis",
+				"existingNameInput"
+			],
+			[
+				"ex",
+				"existingNameInput"
+			],
+			[
+				"lightgr",
+				"lightgreen"
+			],
+			[
+				"mediu",
+				"mediumgreen"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"al",
+				"almost-invisible-gray"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"business",
+				"businessName"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"businessNam",
+				"businessNameInput"
+			],
+			[
+				"textarea",
+				"textarea	Tag"
+			],
+			[
+				"label",
+				"label	Tag"
+			],
+			[
+				"Tex",
+				"textarea"
+			],
+			[
+				"labe",
+				"label	Tag"
+			],
+			[
+				"filter",
+				"filterinput"
+			],
+			[
+				"ng-r",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"bore",
+				"border-radius"
+			],
+			[
+				"tab",
+				"table	<table>"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"bav",
+				"apple-backface-visibility"
+			],
+			[
+				"$locat",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"searc",
+				"search-bar"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"even",
+				"eventData"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"defer",
+				"deferred"
+			],
+			[
+				"eve",
+				"event"
+			],
+			[
+				"succes",
+				"successcb"
+			],
+			[
+				"succe",
+				"successcb"
+			],
+			[
+				"in",
+				"ins	Tag"
+			],
+			[
+				"lab",
+				"label	<label>"
+			],
+			[
+				"cla",
+				"class	Attr"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 2541,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"oack",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"plug",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/davecaskey/Documents/EBSCO/customerAuthority/app/js/app.js",
+		"/Users/davecaskey/Documents/EBSCO/customerAuthority/app/partials/fte/fte.html",
+		"/Users/davecaskey/Documents/EBSCO/customerAuthority/app/partials/fte/customerPricingForm.html",
+		"/Users/davecaskey/Documents/EBSCO/customerAuthority/app/partials/fte/userAccount.html",
+		"/Users/davecaskey/Documents/EBSCO/marketplace/app/ui-index.html",
+		"/Users/davecaskey/Documents/EBSCO/marketplace/app/node_modules/karma/node_modules/http-proxy/test/fixtures/agent2-key.pem",
+		"/Users/davecaskey/Documents/EBSCO/marketplace/app/app-index.html",
+		"/Users/davecaskey/Documents/EBSCO/marketplace/app/scss/marketplace.ui.scss",
+		"/Users/davecaskey/Documents/EBSCO/marketplace/app/js/controllers/paramsController.js",
+		"/Users/davecaskey/Documents/EBSCO/marketplace/app/js/services/geoData.js",
+		"/Users/davecaskey/Documents/EBSCO/marketplace/app/js/controllers/geoController.js",
+		"/Users/davecaskey/Documents/EBSCO/marketplace/app/data/params/params.json",
+		"/Users/davecaskey/Documents/EBSCO/marketplace/app/partials/editParams",
+		"/Users/davecaskey/Documents/EBSCO/marketplace/app/partials/editParams.html",
+		"/Users/davecaskey/Sites/AIF/app/scss/ui.aif.scss",
+		"/Users/davecaskey/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/davecaskey/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/davecaskey/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/davecaskey/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/davecaskey/Documents/EBSCO/marketplace/app/partials/partial2.html",
+		"/Users/davecaskey/Sites/AIF/app/partials/shared/topbar.html",
+		"/Users/davecaskey/Sites/AIF/app/index.html",
+		"/Users/davecaskey/Sites/AIF/app/fabricator/gulpfile.js",
+		"/Users/davecaskey/Sites/AIF/app/toolkit/bower.json",
+		"/Users/davecaskey/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/davecaskey/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/app/js/controllers.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/app/partials/menu.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/app/js/app.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/app/js/ui.app.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/bower.json",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/partials/fte/fte.html",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/js/libs/contactSearch.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/package.json",
+		"/Users/davecaskey/Documents/EBSCO/toolkitSRC/package.json",
+		"/Users/davecaskey/Documents/EBSCO/toolkitSRC/index.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkitSRC/bower.json",
+		"/Users/davecaskey/Sites/test/partials/foot.html",
+		"/Users/davecaskey/Sites/test/index.html",
+		"/Users/davecaskey/Sites/test/partials/head.html",
+		"/Applications/MAMP/conf/apache/magic",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/js/prism.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/css/prism.css",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/js/X-rayHTML.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit_FAB/src/toolkit/assets/scss/ui.toolkit.scss",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/css/X-rayHTML.css",
+		"/Users/davecaskey/Downloads/prism (1).css",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/assets/code.svg",
+		"/Users/davecaskey/Documents/EBSCO/toolkit_FAB/dist/index.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit_FAB/dist/assets/js/f.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/js/xraySpecs.js",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/scss/ui.proto.scss",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/scss/app.scss",
+		"/Users/davecaskey/Documents/EBSCO/ECM/app/scss/ui.ecm.scss",
+		"/Users/davecaskey/Documents/EBSCO/toolkit_FAB/src/fabricator/scss/partials/_icons.scss",
+		"/Users/davecaskey/Documents/EBSCO/proto_F4/app/partials/fte/fte.html",
+		"/Users/davecaskey/Sites/AIF/app/js/services/appraisalsData.js",
+		"/Users/davecaskey/Sites/AIF/app/js/controllers/dashboardController.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/partials/menu.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit_FAB/src/fabricator/js/prism.js",
+		"/Users/davecaskey/Downloads/prism (1).js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/css/xlarge-grid.css",
+		"/Users/davecaskey/Downloads/foundation-5.2.2.custom/css/foundation.css",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/index_default.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/Gruntfile.js",
+		"/Users/davecaskey/Downloads/grunt-includes-example-master/Gruntfile.js",
+		"/Users/davecaskey/Downloads/grunt-includes-example-master/site/index.html",
+		"/Users/davecaskey/Downloads/grunt-includes-example-master/build/pages/about.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/partials/test.html",
+		"/Users/davecaskey/Downloads/grunt-includes-example-master/package.json",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/bower_components/foundation/js/foundation.js",
+		"/Users/davecaskey/Downloads/commondream-handlebars-helpers-examples-7b44841/partials.html",
+		"/Users/davecaskey/Downloads/commondream-handlebars-helpers-examples-7b44841/index.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/dist/buttons.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/views/partials/menu.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/gulpfile.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/views/button.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/assets/js/toolkit.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/views/buttons.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/views/index.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/views/partials/intro.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/components/buttons.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/buttons/disabled-button.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/buttons/button-colors.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/views/partials/outro.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/views/components.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/buttons/button-sizes.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/components/button.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/tasks/collate.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/dist/index.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/node_modules/gulp-util/lib/isNull.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/node_modules/gulp-sass/node_modules/node-sass/libsass/INSTALL",
+		"/Users/davecaskey/Sites/beardedBadger/app/styleguide/src/toolkit/views/partials/menu.html",
+		"/Users/davecaskey/Sites/beardedBadger/app/styleguide/src/toolkit/views/documentation.html",
+		"/Users/davecaskey/Sites/beardedBadger/app/styleguide/src/toolkit/views/index.html",
+		"/Users/davecaskey/Sites/beardedBadger/app/js/directives.js",
+		"/Users/davecaskey/Sites/beardedBadger/app/js/filters.js",
+		"/Users/davecaskey/Sites/beardedBadger/app/js/app.js",
+		"/Users/davecaskey/Sites/beardedBadger/app/partials/home/home.html",
+		"/Users/davecaskey/Sites/beardedBadger/app/assets/img/svg/logotype.svg",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/fabricator/js/fabricator.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/node_modules/handlebars/package.json",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/node_modules/.bin/handlebars",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/dist/assets/js/f.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/fabricator/js/prism.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/dist/assets/json/data.json",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/architecture/grid.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/architecture/nav.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/presentation/borderRadius.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/views/presentation",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/architecture/utility_classes.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/architecture/classes.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/architecture/media queries.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/architecture/mediaqueries.html",
+		"/Users/davecaskey/Downloads/foundation-5.2.2/js/foundation.min.js",
+		"/Users/davecaskey/Downloads/foundation-5.2.2/js/foundation/foundation.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/views/architecture.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/dist/assets/js/foundation.js",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/components/allnew.html",
+		"/Users/davecaskey/Documents/EBSCO/toolkit/src/toolkit/components/checkbox.html",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/index.html",
+		"/Users/davecaskey/Sites/AIF/app/js/controllers/appraisalsController.js",
+		"/Users/davecaskey/Downloads/bootstrap-3.1.1-dist/Starter Template for Bootstrap.html",
+		"/Users/davecaskey/Documents/design/bootstrap3-sandbox/assets/bootstrap.min.js",
+		"/Users/davecaskey/Sites/AIF/app/js/libs/bootstrap/bootstrap.js",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/partials/fte/userAccount.html",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/js/angular_app.js",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/partials/fte/infoPanel.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/davecaskey/Documents/EBSCO/proto/app",
+			"<project>",
+			"field--wrapper"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"active",
+			"activeac active",
+			"active",
+			"Summary of Account Information",
+			"block",
+			"labval",
+			"clear",
+			"download",
+			"pdf",
+			"vir",
+			"pri",
+			"vir",
+			"cou",
+			"ge",
+			"und",
+			"pol",
+			"nor",
+			"isl",
+			"spa",
+			"nam",
+			"ind",
+			"sha",
+			"sea",
+			"nor",
+			"sca",
+			"per",
+			"sam",
+			"chn",
+			"nam",
+			"ind",
+			"dom",
+			"ant",
+			"pua",
+			"cen",
+			"aus",
+			"pai",
+			"vic",
+			"aus",
+			"aus\\",
+			"pac",
+			"cod",
+			"eri",
+			"tur",
+			"nam",
+			"afg",
+			"ovi",
+			"pol",
+			"nor",
+			"isl",
+			"est",
+			"glp",
+			"tur",
+			"pol",
+			"nor",
+			"{\n			\"GEOGRAPHIC_CODE\":\"DNK\",\n			\"EBSCO_GEO_CODE\":\"DE\",\n			\"HIERARCHY_CODE\":4,\n			\"NEXT_HIERARCHY_CD\":5,\n			\"GEO_STATUS_CODE\":\"A\",\n			\"SERVICING_OFFC_CDE\":\"JEU\",\n			\"NAME\":\"DENMARK \"\n			},",
+			"aus",
+			"oce",
+			"nzl",
+			"nor",
+			"isl",
+			"can",
+			"chn",
+			"nea",
+			"mid",
+			"ita",
+			"ega",
+			"mai",
+			"mag",
+			"ici",
+			"},\n",
+			"sco",
+			"ukr",
+			"geo",
+			"est",
+			"fsu",
+			"ZIMBABWE",
+			"margin-bottom: -6px;",
+			"highlight-red",
+			"DEEP",
+			"micro",
+			"\"></",
+			"created",
+			"email",
+			"amat",
+			"ray",
+			"source",
+			"snipp",
+			"form",
+			"url",
+			"fileSubmissionControls",
+			"submit",
+			"large",
+			"butt",
+			"light-gr",
+			"widget",
+			"widge",
+			"search",
+			"green",
+			"border-right",
+			"widget",
+			"highlight",
+			"shift_tab",
+			"Amatic",
+			"name",
+			"f-item-heading",
+			"name",
+			">",
+			"dropdown",
+			"components",
+			"$blue",
+			"form",
+			"drop",
+			"form",
+			"dropdown",
+			">\n",
+			"checkbox",
+			"bold",
+			"sidebar",
+			"textarea",
+			"accountAdminForm",
+			"button",
+			"table",
+			"searchTrigger",
+			"date",
+			"gif",
+			"trigger",
+			"field--wrapper",
+			"Searching"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"current",
+			"xlarge"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 98.0
+	},
+	"project": "defaultFramework.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/davidashby/davidashby.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

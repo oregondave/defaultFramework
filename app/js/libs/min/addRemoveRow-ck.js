@@ -1,0 +1,1 @@
+classificationTableRow="<tr class='tableRow'>"+$(".classification.tableRow.hidden").html()+"</tr>",$(document).on("click",".delete",function(){$(this).parent().remove()}),$(".classification.add").click(function(){var a=classificationTableRow;$("table.classification tr:last").after(a)});

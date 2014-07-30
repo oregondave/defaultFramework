@@ -1,0 +1,83 @@
+<!doctype html>
+<html class="no-js" lang="en" ng-app="proto">
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>proto</title>
+    <link rel="stylesheet" href="css/foundation-app.css" />
+
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/ui.proto.css" />
+    <link rel="stylesheet" href="css/jvfloat.css" />
+    <link rel="stylesheet" href="css/foundation-datepicker.css" />
+    <link rel="stylesheet" href="css/component.css" />
+
+    <!-- Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Oxygen:400,700' rel='stylesheet' type='text/css'>
+
+    <script src="js/vendor/custom.modernizr.js"></script>
+
+
+  </head>
+
+  <body>
+
+<!-- ------------------------ -->
+<!-- HEADER & TOP-BAR SECTION -->
+<!-- ------------------------ -->
+
+
+<div class="" ng-include="'partials/shared/topbar.html'"></div>
+
+<!-- ------------------------ -->
+<!--       CONTENT AREA       -->
+<!-- ------------------------ -->
+
+<div ng-view></div>
+
+
+
+
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script src="js/libs/foundation-datepicker.js"></script>
+    <script src="js/libs/jquery.jeditable.mini.js"></script>
+    <script src="js/libs/jvfloat.min.js"></script>
+    
+
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.js"></script>
+
+    <script src="js/angular_app.js"></script>
+    <script src="js/ui.app.js"></script>
+
+    <script src="js/controllers/homeController.js"></script>
+    <script src="js/services/homeData.js"></script>
+
+    <script>
+
+        function initiateZURB() {
+            $(document).foundation();
+        };
+        initiateZURB();
+
+        function initDatePicker() {
+            $('.datepicker').fdatepicker();
+        };
+        initDatePicker;
+
+
+
+    </script>
+
+
+
+
+
+  </body>
+
+</html>
